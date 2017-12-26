@@ -1,3 +1,3 @@
 # Machine-Learning
 
-added logistic regression
+all codes here are genuine and written by me.
