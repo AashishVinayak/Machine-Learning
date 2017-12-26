@@ -1,10 +1,3 @@
-'''
-Support Vector Machine code from scratch
-this code doesn't work
-but demonstrates an implementation of SVM on a single feature of IRIS dataset
-'''
-
-
 # the dependencies
 import pandas as pd
 import matplotlib.pyplot as plt
